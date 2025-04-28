@@ -1,5 +1,5 @@
 <div align='center'>
-  <h1>NEXUS - Digital MArketing Website</h1>
+  <h1>NEXUS - Digital Marketing Website</h1>
   <h3>WordPress | Elementer | MetForm </h3>
   <img src='https://img.shields.io/badge/fmfahath-white?logo=github&logoColor=black'/>
   
